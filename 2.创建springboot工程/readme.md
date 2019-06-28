@@ -1,10 +1,10 @@
 # 创建springboot工程
 
-## ~~~通过maven工程进行创建~~~
+## 通过maven工程进行创建
 
-~~~我使用了idea作为我java的集成编译环境，jdk是1.8的。~~~
+我使用了idea作为我java的集成编译环境，jdk是1.8的。
 
-~~~为了加快maven的构建需要修改了setting.xml的配置文件。~~~
+为了加快maven的构建需要修改了setting.xml的配置文件。
 
 ```xml
 <mirrors>
